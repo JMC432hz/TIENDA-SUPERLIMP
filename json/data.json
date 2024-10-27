@@ -1,0 +1,91 @@
+[
+    {
+      "categoria": "Papeles Higienicos y Toallas",
+      "codigo": "PH001",
+      "descripcion": "Papel Higienico",
+      "presentacion": "Pack",
+      "umc": 40,
+      "precioPorUmc": 20000,
+      "imagen": "../img/PH.jpg"
+
+    },
+    {
+      "categoria": "Papeles Higienicos y Toallas",
+      "codigo": "TOA001",
+      "descripcion": "Toalla de papel",
+      "presentacion": "Pack",
+      "umc": 2,
+      "precioPorUmc": 14000,
+      "imagen": "../img/perrito.jpg"
+    
+    },
+    {
+      "categoria": "Jabones Líquidos",
+      "codigo": "00002",
+      "descripcion": "Jabón líquido",
+      "presentacion": "Bidón",
+      "umc": 5,
+      "precioPorUmc": 5000,
+      "imagen": "../img/jabonliquido.jpg"
+    
+    },
+    {
+      "categoria": "Bolsas",
+      "codigo": "00003",
+      "descripcion": "Bolsa",
+      "presentacion": "Pack",
+      "umc": 250,
+      "precioPorUmc": 12500,
+      "imagen": "../img/perrito.jpg"    
+    },
+    {
+      "categoria": "Trapos",
+      "codigo": "00004",
+      "descripcion": "Trapo de piso",
+      "presentacion": "Unidad",
+      "umc": 1,
+      "precioPorUmc": 1000,
+      "imagen": "../img/perrito.jpg"
+    
+    },
+    {
+      "categoria": "Desodorantes / Desinfectantes líquidos",
+      "codigo": "00005",
+      "descripcion": "Desodorante Cherry",
+      "presentacion": "Bidón",
+      "umc": 5,
+      "precioPorUmc": 6500,
+      "imagen": "../img/lysoform.jpg"
+    
+    },
+    {
+      "categoria": "Ceras y lustradores",
+      "codigo": "00006",
+      "descripcion": "Blem pisos plastificados",
+      "presentacion": "Bidón",
+      "umc": 5,
+      "precioPorUmc": 18000,
+      "imagen": "../img/perrito.jpg"
+    
+    },
+    {
+        "categoria": "Ceras y lustradores",
+        "codigo": "00007",
+        "descripcion": "Blem Aerosol Original 360ml",
+        "presentacion": "Unidad",
+        "umc": 1,
+        "precioPorUmc": 3500,
+        "imagen": "../img/blemaero.jpg"
+      
+      }, 
+      {
+        "categoria": "Desodorantes / Desinfectantes líquidos",
+        "codigo": "00008",
+        "descripcion": "Lysoform Aerosol Original 360ml",
+        "presentacion": "Unidad",
+        "umc": 1,
+        "precioPorUmc": 18000,
+        "imagen": "../img/lysoform.jpg"
+      
+      }
+  ]
